@@ -3,3 +3,4 @@ dvc
 joblib
 pandas
 scikit-learn
+xgboost
